@@ -73,6 +73,3 @@ Mining is implemented using a Proof of Work algorithm with adjustable difficulty
 - SHA-256 hashing
 - Password-based encryption for key storage
 - Double spending prevention
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
